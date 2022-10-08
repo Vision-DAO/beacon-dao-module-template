@@ -1,0 +1,7 @@
+#+NAME: Beacon DAO Module Template
+#+AUTHOR: Dowland Aiello
+#+DATE: 10/08/22
+
+* Beacon DAO Module Template
+
+This repository implements a boilerplate template for Vision Beacon DAO modules.
